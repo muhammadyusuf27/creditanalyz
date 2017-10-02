@@ -1,2 +1,9 @@
 public class domba extends hewan{
+private String kriting;
+private String gondrong;
+
+  public domba(String kriting, String gondrong){
+  this.kriting=kriting;
+  this.gondrong=gondrong;
+
 }
