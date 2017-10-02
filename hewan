@@ -1,1 +1,8 @@
-public class hewan{}
+public class hewan{
+
+private boolean walking;
+
+  public boolean isWalking(){
+  return waliking;
+  }
+  }
